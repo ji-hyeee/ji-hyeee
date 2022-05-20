@@ -1,7 +1,6 @@
+### 👋 Hi, I’m ji-hye !
 
-- 👋 Hi, I’m @ji-hyeee
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning JavaScript
 
 <!---
 ji-hyeee/ji-hyeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
