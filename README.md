@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m ji-hye !
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, React
 - 😊 I want to become a developer who develops with fun !
 
 <!---
